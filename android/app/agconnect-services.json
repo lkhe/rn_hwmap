@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890852200000000072",
+		"product_id":"736430079244430772",
+		"client_id":"355449766454232128",
+		"client_secret":"EC78CE6B8408A05D4FF19402B9446823C897BE9772B6DF86B4414CD567AFDC61",
+		"app_id":"102156679",
+		"package_name":"com.rn_hwmap",
+		"api_key":"CV7YWVRFAoouIc91T2NQro19whB/imw1RLMamOd4y9f2IVB/iPyno+oapLPqPcwVYrTlXcSdsTVC03OlXi+6w+g7C3B9"
+	},
+	"configuration_version":"1.0"
+}
